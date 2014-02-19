@@ -2,6 +2,8 @@
 
 And old project. A Mr. Driller. Never finished due to lack of time and an artist. :)
 
+UPDATE: OOPS, it seems that some datafiles are missing... Will try to find them.
+
 ## Compilation
 
 Type `make` and run with `dman`.
