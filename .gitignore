@@ -1,0 +1,4 @@
+dman
+*.o
+*~
+.depend
